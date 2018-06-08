@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "lapis-cache"
-version = "0.1.2-0"
+version = "0.2.0-0"
 
 -- LuaDist source
 source = {
-  tag = "0.1.2-0",
+  tag = "0.2.0-0",
   url = "git://github.com/LuaDist-testing/lapis-cache.git"
 }
 -- Original source
 -- source = {
 --   url = "git://github.com/CriztianiX/lapis-cache.git",
---   tag = "v0.1.2"
+--   tag = "v0.2.0"
 -- }
 
 description = {
